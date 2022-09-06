@@ -1,6 +1,6 @@
 # AdvGame
 
-A simple terminal game inspired ny NetHack.
+A simple terminal game inspired by NetHack.
 The first proper program I ever wrote.
 
 ## Dependencies
