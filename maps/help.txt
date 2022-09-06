@@ -1,0 +1,22 @@
+################################################################################
+#                                                                              #
+#   Welcome to AdvGame 1.0 - by ShinyJonny                                     #
+#                                                                              #
+#   Description:                                              Movement:        #
+#                                                                              #
+#   Your character has the symbol'@'. The goal of the          7   8   9       #
+#   game is to kill all enemies - all capital charac-           y  k  u        #
+#   ters, e.g. 'W', - and to reach the exit from the             \ | /         #
+#   dungeon - '$'.                                            4 h--.--l 6      #
+#                                                                / | \         #
+#   You can attack by moving into the enemy.                    b  j  n        #
+#                                                              1   2   3       #
+#                                                                              #
+#                                                        Vim keys/NumPad keys  #
+#                                                                              #
+#   IMPORTANT: Set your terminal size to at least 80x24.                       #
+#                                                                              #
+#   For help press 'H'. (Shift+h)                                              #
+#   To quit press  'Q'. (Shift+q)                                              #
+#                                                                              #
+################################################################################
