@@ -22,4 +22,4 @@ make install
 
 ## Known Issues
 
-- Even when you display help, the enemy mobs move.
+- Even when you just display help, it counts as a step and the enemy mobs move.
